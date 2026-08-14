@@ -26,5 +26,5 @@ anomalies with a hand-built z-score, and prints a Spotify-Wrapped-style report.
 3. Run all cells top to bottom.
 
 ## Output
-![SpendDNA Report Output](Untitled design.png)
+![SpendDNA Report Output](IMG_1053.png)
 
